@@ -1,2 +1,3 @@
-# argocd
-Home LAB files
+# Setup Test Environment for kubernetes
+- Shell Script
+- yamls
